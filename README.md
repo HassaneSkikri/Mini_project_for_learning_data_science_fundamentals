@@ -1,0 +1,1 @@
+# Mini_project_for_learning_data_science_fundamentals
