@@ -1,36 +1,44 @@
-#### This repository contain a bunch of notebook, that containe a practical learning for a skill such data cleaning or data visualisation ...
+This repository contains a collection of notebooks that provide practical learning for skills such as data cleaning and data visualization.
 
-# 1.Cleaning the NYC Property Sales Dataset
+# 1. Cleaning the NYC Property Sales Dataset
 
 
-To explore more this dataset you can see it [here](https://www.kaggle.com/datasets/new-york-city/nyc-property-sales)
+For further exploration of this dataset, visit [here](https://www.kaggle.com/datasets/new-york-city/nyc-property-sales)
 
-to explore muy notebook [here](https://www.kaggle.com/code/hassaneskikri/cleaning-the-nyc-property-sales-dataset?scriptVersionId=168046236)
+To access my notebook, click [here](https://www.kaggle.com/code/hassaneskikri/cleaning-the-nyc-property-sales-dataset?scriptVersionId=168046236)
 
 
 
 # 2. Analyzing Women's Clothing E-Commerce using pandas
 
-To explore more this dataset you can see it [here](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews)
+To explore more about this dataset, check [here](https://www.kaggle.com/datasets/nicapotato/womens-ecommerce-clothing-reviews)
 
-to explore muy notebook [here](https://www.kaggle.com/code/hassaneskikri/women-s-e-commerce-clothing-reviews?scriptVersionId=168046444)
+To view my notebook, visit[here](https://www.kaggle.com/code/hassaneskikri/women-s-e-commerce-clothing-reviews?scriptVersionId=168046444)
 
 
 # 3. 🫀Heart Disease visualisation🫀
 
-To explore more this dataset you can see it [here](https://www.kaggle.com/datasets/hassaneskikri/brfss-samplecsv)
+For further exploration of this dataset, visit [here](https://www.kaggle.com/datasets/hassaneskikri/brfss-samplecsv)
 
-to explore muy notebook [here](https://www.kaggle.com/code/hassaneskikri/heart-disease-visualisation?scriptVersionId=168046696)
+to explore my notebook [here](https://www.kaggle.com/code/hassaneskikri/heart-disease-visualisation?scriptVersionId=168046696)
 
-# 4.Data Analysis on a Movie Ratings Dataset Using NumPy
+# 4. Data Analysis on a Movie Ratings Dataset Using NumPy
 
-To explore more this dataset you can see it [here](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset)
+For further exploration of this dataset, visit [here](https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset)
 
-to explore muy notebook [here](https://www.kaggle.com/code/hassaneskikri/movielens-project-solution?scriptVersionId=168046933)
+To view my notebook, visit[here](https://www.kaggle.com/code/hassaneskikri/movielens-project-solution?scriptVersionId=168046933)
 
-# 5.obesity dataset from UCI Machine Learning Repository.
+# 5. obesity dataset from the UCI Machine Learning Repository.
 
-To explore more this dataset you can see it [here](https://www.kaggle.com/datasets/hassaneskikri/estimation-of-obesity)
+For further exploration of this dataset, visit[here](https://www.kaggle.com/datasets/hassaneskikri/estimation-of-obesity)
 
-to explore muy notebook [here]()
+To view my notebook, visit [here](https://www.kaggle.com/code/hassaneskikri/the-uci-obesity-dataset-exploration)
+
+
+# 6. Personal Finance Tracker and Budget Planner | Python Project
+
+This notebook is ideal for practicing some concepts of Python.
+
+To view my notebook, visit [here](https://www.kaggle.com/code/hassaneskikri/personal-finance-tracker-and-budget-planner-projec?scriptVersionId=168088845)
+
 
